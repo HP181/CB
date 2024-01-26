@@ -42,7 +42,7 @@ const Footer = () => {
 
 
           </div>
-          <h1 className=" text-center mx-auto text-xs xs:w-60 xxs:w-[30em] sm:w-[45em] "> THIS IS NOT A REGISTERED COMPANY WEBSITE, ITS JUST FOR DEMO PURPOSE ONLY.</h1>
+          <h1 className=" text-center mx-auto text-xs xs:w-60 xxs:w-[22em] sm:w-[45em] "> THIS IS NOT A REGISTERED COMPANY WEBSITE, ITS JUST FOR DEMO PURPOSE ONLY.</h1>
         </div>
       </div>
     </>

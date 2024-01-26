@@ -27,7 +27,7 @@ const Portfolio = () => {
         group inline-flex items-center rounded-md  px-3 py-2 text-base font-medium text-white hover:text-opacity-100 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75 bg-gray-200 relative xs:h-full xs:w-screen flex-1 w-[90vw] md:h-[25em] md:w-[40em]  md:justify-center md:items-center lg:h-[25em] lg:w-[46em]  xl:h-[25em] xl:w-[41em] `}
                     >
                       <img
-                        src="/pictures/ecommerce/1.png"
+                        src="/pictures/ECOMMERCE/1.png"
                         className="xs:h-full xs:w-full  md:w-full md:h-full     lg:h-[55vh] lg:w-[55vw] xl:w-82 xl:h-82  object-contain transform hover:scale-105 duration-500 ease-in-out flex-1     "
                         alt="/bg.png"
                       ></img>
@@ -50,22 +50,22 @@ const Portfolio = () => {
                       <div className=" h-full overflow-scroll scrollbar-hide scroll-m-0 bg-scroll rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 pt-6 mb-6  xl:ml-6">
                         <div className="relative grid  lg:grid-cols-1">
                           <img
-                            src="/pictures/ecommerce/1.png"
+                            src="/pictures/ECOMMERCE/1.png"
                             className="w-[60em] object-contain  "
                             alt=""
                           />
                           <img
-                            src="/pictures/ecommerce/2.png"
+                            src="/pictures/ECOMMERCE/2.png"
                             className="w-[60em] object-contain  "
                             alt=""
                           />
                           <img
-                            src="/pictures/ecommerce/3.png"
+                            src="/pictures/ECOMMERCE/3.png"
                             className="w-[60em] object-contain  "
                             alt=""
                           />
                           <img
-                            src="/pictures/ecommerce/4.png"
+                            src="/pictures/ECOMMERCE/4.png"
                             className="w-[60em] object-contain  "
                             alt=""
                           />
@@ -97,7 +97,7 @@ const Portfolio = () => {
               group inline-flex items-center rounded-md  px-3 py-2 text-base font-medium text-white hover:text-opacity-100 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75 bg-gray-200 relative xs:h-full xs:w-screen flex-1 w-[90vw] md:h-[25em] md:w-[40em]  md:justify-center md:items-center lg:h-[25em] lg:w-[46em]  xl:h-[25em] xl:w-[41em]`}
                     >
                       <img
-                        src="/pictures/restaurant/bg.png"
+                        src="/pictures/RESTAURANT/bg.png"
                         className="xs:h-full xs:w-full  md:w-full md:h-full     lg:h-[55vh] lg:w-[55vw] xl:w-82 xl:h-82  object-contain transform hover:scale-105 duration-500 ease-in-out flex-1      "
                         alt="/bg.png"
                       ></img>
@@ -120,32 +120,32 @@ const Portfolio = () => {
                       <div className=" h-screen overflow-scroll scrollbar-hide scroll-m-0 bg-scroll rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 pt-6 xl:ml-6 ">
                         <div className="relative grid lg:grid-cols-1">
                           <img
-                            src="/pictures/restaurant/restaurant-1.png"
+                            src="/pictures/RESTAURANT/restaurant-1.png"
                             className="w-[60em] object-contain  "
                             alt=""
                           />
                           <img
-                            src="/pictures/restaurant/restaurant-2.png"
+                            src="/pictures/RESTAURANT/restaurant-2.png"
                             className="w-[60em] object-contain  "
                             alt=""
                           />
                           <img
-                            src="/pictures/restaurant/restaurant-3.png"
+                            src="/pictures/RESTAURANT/restaurant-3.png"
                             className="w-[60em] object-contain  "
                             alt=""
                           />
                           <img
-                            src="/pictures/restaurant/restaurant-4.png"
+                            src="/pictures/RESTAURANT/restaurant-4.png"
                             className="w-[60em] object-contain  "
                             alt=""
                           />
                           <img
-                            src="/pictures/restaurant/restaurant-5.png"
+                            src="/pictures/RESTAURANT/restaurant-5.png"
                             className="w-[60em] object-contain  "
                             alt=""
                           />
                           <img
-                            src="/pictures/restaurant/restaurant-6.png"
+                            src="/pictures/RESTAURANT/restaurant-6.png"
                             className="w-[60em] object-contain  "
                             alt=""
                           />
@@ -185,7 +185,7 @@ const Portfolio = () => {
               group inline-flex items-center rounded-md  px-3 py-2 text-base font-medium text-white hover:text-opacity-100 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75 bg-gray-200 relative xs:h-full xs:w-screen flex-1 w-[90vw] md:h-[25em] md:w-[40em]  md:justify-center md:items-center lg:h-[25em] lg:w-[46em]  xl:h-[25em] xl:w-[41em]`}
                     >
                       <img
-                        src="/pictures/gym/bg.png"
+                        src="/pictures/Gym/bg.png"
                         alt="background pic"
                         className="xs:h-full xs:w-full  md:w-full md:h-full     lg:h-[55vh] lg:w-[55vw] xl:w-82 xl:h-82  object-contain transform hover:scale-105 duration-500 ease-in-out flex-1   "
                       ></img>
@@ -205,45 +205,45 @@ const Portfolio = () => {
                     <Popover.Panel className="absolute left-[53vw]  scroll-m-0 z-10 mt-1 w-screen max-w-2xl xs:top-44 xs:max-w-[90vw] xs:left-[10em] xxs:top-44 xxs:mx-auto sm:max-w-lg sm:mx-auto sm:top-80  md:max-w-2xl md:mx-auto md:left-[25em] md:top-44 lg:max-w-4xl lg:mx-auto lg:top-28 lg:left-[32em] xl:max-w-5xl xl:mx-auto xl:-right-[35em] xl:top-32 -translate-x-1/2 transform px-4 sm:px-0 bg-cyan-100  top-16 overflow-hidden mb-10">
                       {window.scrollTo({ top: 0, left: 0, behavior: "smooth" })}
 
-                      <div className="  h-screen overflow-scroll scrollbar-hide scroll-m-0 bg-scroll rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 pt-6 mb-2">
+                      <div className="  h-screen overflow-scroll scrollbar-hide scroll-m-0 bg-scroll rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 pt-6 mb-2 xl:ml-6">
                         <div className="relative grid  lg:grid-cols-1">
                           <img
-                            src="/pictures/gym/gym-1.png"
+                            src="/pictures/Gym/gym-1.png"
                             className="w-[60em] object-contain"
                             alt=""
                           />
                           <img
-                            src="/pictures/gym/gym-2.png"
+                            src="/pictures/Gym/gym-2.png"
                             className="w-[60em] object-contain"
                             alt=""
                           />
                           <img
-                            src="/pictures/gym/gym-3.png"
+                            src="/pictures/Gym/gym-3.png"
                             className="w-[60em] object-contain"
                             alt=""
                           />
                           <img
-                            src="/pictures/gym/gym-4.png"
+                            src="/pictures/Gym/gym-4.png"
                             className="w-[60em] object-contain"
                             alt=""
                           />
                           <img
-                            src="/pictures/gym/gym-5.png"
+                            src="/pictures/Gym/gym-5.png"
                             className="w-[60em] object-contain"
                             alt=""
                           />
                           <img
-                            src="/pictures/gym/gym-6.png"
+                            src="/pictures/Gym/gym-6.png"
                             className="w-[60em] object-contain"
                             alt=""
                           />
                           <img
-                            src="/pictures/gym/gym-7.png"
+                            src="/pictures/Gym/gym-7.png"
                             className="w-[60em] object-contain"
                             alt=""
                           />
                           <img
-                            src="/pictures/gym/gym-8.png"
+                            src="/pictures/Gym/gym-8.png"
                             className="w-[60em] object-contain"
                             alt=""
                           />

@@ -43,6 +43,7 @@ const Contact = () => {
         draggable: true,
         progress: undefined,
       });
+      setData({name:"", email:"", message:""})
       
     } else {
       toast.success("Data sent successfully", {
@@ -54,6 +55,7 @@ const Contact = () => {
         draggable: true,
         progress: undefined,
       });
+      setData({name:"", email:"", message:""})
     }
   };
 
@@ -81,7 +83,7 @@ const Contact = () => {
                     htmlFor="name"
                     className="leading-7 text-sm text-gray-600"
                   >
-                    Name / Company Name
+                    Name 
                   </label>
                   <input
                     type="text"
@@ -93,13 +95,13 @@ const Contact = () => {
                   />
                 </div>
               </div>
-              <div className="p-2  xs:w-full  xxs:w-1/2 w-1/2">
+              <div className="p-2 xs:w-full  xxs:w-1/2 w-1/2">
                 <div className="relative">
                   <label
                     htmlFor="email"
                     className="leading-7 text-sm text-gray-600"
                   >
-                    Email
+                    <span className="pt-44">Email</span>
                   </label>
                   <input
                     type="email"
@@ -141,12 +143,10 @@ const Contact = () => {
                   codebucks.tech@gmail.com
                 </NavLink>
                 <p className="leading-normal my-5 text-indigo-500">
-                  403,zascianek-dom, <br />
-                  Stanistawa Mikolajczyka 6,
+                  sector 25 <br />
+                  382024, Gandhinagar
                   <br />
-                  45-271 Opole.
-                  <br />
-                  +48 579123910
+                  +91 9054548663
                 </p>
                 <span className="inline-flex">
                   <NavLink className="text-gray-500">
